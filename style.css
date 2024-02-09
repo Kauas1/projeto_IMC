@@ -34,8 +34,8 @@ form{
 .bnt{
     width: 200px;
     height: 40px;
-    background-color: orangered;
-    color: black;
+    background-color: hsl(25, 97%, 53%);
+    color: white;
     border-radius: 8px;
 }
 
